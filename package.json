@@ -1,6 +1,6 @@
 {
   "name": "@movexl/web3-monitor",
-  "version": "1.0.78",
+  "version": "1.0.79",
   "description": "Description for web3-monitor",
   "main": "src/index.js",
   "scripts": {
